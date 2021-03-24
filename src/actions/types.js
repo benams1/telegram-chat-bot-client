@@ -1,0 +1,4 @@
+export const FETCH_USERS = 'FETCH_USERS';
+export const SELECT_USER = 'SELECT_USER';
+export const INITIATE_MESSAGES = 'INITIATE_MESSAGES';
+export const ADD_MESSAGE = 'ADD_MESSAGE';
